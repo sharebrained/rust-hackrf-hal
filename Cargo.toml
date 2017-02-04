@@ -11,4 +11,4 @@ authors = [
 ]
 
 [dependencies]
-lpc43xx = "0.0.0"
+lpc43xx = { git = "https://github.com/jboone/rust-lpc43xx.git"}
